@@ -1,0 +1,43 @@
+[
+
+    {
+
+        "id": 1,
+
+        "name": "Alice",
+
+        "age": 25,
+
+        "address": {
+
+            "city": "New York",
+
+            "country": "USA"
+
+        },
+
+        "hobbies": ["reading", "swimming"]
+
+    },
+
+    {
+
+        "id": 2,
+
+        "name": "Bob",
+
+        "age": 30,
+
+        "address": {
+
+            "city": "London",
+
+            "country": "UK"
+
+        },
+
+        "hobbies": ["traveling", "photography"]
+
+    }
+
+]
